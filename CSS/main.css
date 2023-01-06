@@ -305,6 +305,8 @@ section.hero .down-arrow path {
 
 /* ------------------ */
 
-.web0 {
+.demo-border {
     border: 5px solid #b07d53;
+    grid-area: left;
+    width: 25em;
 }
